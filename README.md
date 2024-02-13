@@ -1,0 +1,2 @@
+# meerkat
+simple goroutine pool
